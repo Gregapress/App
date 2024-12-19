@@ -1,3 +1,13 @@
-README.txt
+# Hotkey Reference App
 
-This is an app to help NEJM staff with Arbortext Hot key assignments.
+This is a Streamlit-based application for referencing hotkeys in PTC Arbortext Editor.
+
+## Features
+- Search hotkeys and commands.
+- Filter by categories such as Editing, Navigation, and more.
+
+## How to Run
+1. Install Python 3.8 or higher.
+2. Install Streamlit:
+   ```bash
+   pip install streamlit
